@@ -10,13 +10,14 @@ Write a function that when given a URL as a string, parses out just the domain n
 
 ### Solution
 
-Title : Extract the domain name from URL
-Link : https://www.codewars.com/kata/514a024011ea4fb54200004b
-Methods : regex
-Complexity : 0(n)
-Addition :
-- ^ -> string matching will be done at the beginning of the string only
-- (?:https?:\/\/)? -> group 1: capture the `https://` or `http://` or nothing, this group wouldn't be saved on result
-- (?:www\.)? -> group 2: capture the `www.` or nothing, this group wouldn't be saved on result
-- ([^\/]+) -> group 3: capture all the character until meet the `/`
-- i -> Flag case-insensitive
+- Title : Extract the domain name from URL
+- Link : https://www.codewars.com/kata/514a024011ea4fb54200004b
+- Methods : regex
+- Complexity : 0(n)
+- Addition :
+
+^ -> string matching will be done at the beginning of the string only <br>
+(?:https?:\/\/)? -> group 1: capture the `https://` or `http://` or nothing, this group wouldn't be saved on result <br>
+(?:www\.)? -> group 2: capture the `www.` or nothing, this group wouldn't be saved on result <br>
+([^\/]+) -> group 3: capture all the character until meet the `/` <br>
+i -> Flag case-insensitive <br>

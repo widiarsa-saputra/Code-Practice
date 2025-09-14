@@ -16,7 +16,7 @@ Notes:
 - Beware: In some languages r must be without duplicates.
 
 ### Solution
-Title : Which are in?
-Link : https://www.codewars.com/kata/550554fd08b86f84fe000a58/javascript
-Methods : filter, some, & includes
-Complexity : 0(n·m·k)
+- Title : Which are in?
+- Link : https://www.codewars.com/kata/550554fd08b86f84fe000a58/javascript
+- Methods : filter, some, & includes
+- Complexity : 0(n·m·k)

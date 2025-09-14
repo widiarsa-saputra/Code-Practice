@@ -1,4 +1,4 @@
-1. Narcissistic Function
+# Narcissistic Function
 positive number which is the sum of its own digits, each raised to the power of the number of digits in a given base
 
 ```js
@@ -11,7 +11,7 @@ function narcissistic(value, base = 10) {
 }
 ```
 
-2. Domain name function
+# Domain name function
 This function take full string URL and return the domain of the string
 
 ```js

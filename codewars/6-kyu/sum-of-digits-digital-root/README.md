@@ -13,7 +13,7 @@ Given n, take the sum of the digits of n. If that value has more than one digit,
 ```
 
 ### Solution
-Title : Sum of digits/ Digital Root
-Link : https://www.codewars.com/kata/541c8630095125aba6000c00
-Methods : toString(), split(), & reduce()
-Complexity : 0(n)
+- Title : Sum of digits/ Digital Root
+- Link : https://www.codewars.com/kata/541c8630095125aba6000c00
+- Methods : toString(), split(), & reduce()
+- Complexity : 0(n)
