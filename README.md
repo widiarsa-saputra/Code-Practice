@@ -26,4 +26,4 @@ Code-Practice/
 # Resources
 - [freeCodeCamp](https://www.freecodecamp.org/) 
 - [CodeWars](https://www.codewars.com/) 
-- [freeCodeCamp](https://leetcode.com/) 
+- [LeetCode](https://leetcode.com/) 
