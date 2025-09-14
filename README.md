@@ -7,7 +7,7 @@ The goals ->
 - etc
 
 ```
-coding-practice/
+Code-Practice/
 ├─ codewars/
 │ └─ content/
 ├─ leetcode/
