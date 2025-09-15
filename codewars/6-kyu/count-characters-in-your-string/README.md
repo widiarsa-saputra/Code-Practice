@@ -3,7 +3,7 @@ What if the string is empty? Then the result should be empty object literal, `{}
 
 ### Solution
 
-Title : Count character in your string
-Link : https://www.codewars.com/kata/52efefcbcdf57161d4000091
-Methods : reduce
-Complexity : 0(n)
+- Title : Count character in your string
+- Link : https://www.codewars.com/kata/52efefcbcdf57161d4000091
+- Methods : reduce
+- Complexity : 0(n)
