@@ -1,7 +1,7 @@
 # Coding Practice Documentation
 
 This repo is used as documentation and problem solving solutions from general programming problems:
-The goals ->
+The goals :
 - Algorithm and Logics fundamental
 - Data Structure
 - etc
