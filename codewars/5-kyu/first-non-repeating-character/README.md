@@ -13,7 +13,7 @@ If a string contains *all repeating* characters, it should return an empty strin
 
 ### Solution
 - Title : First non-repeating character
-- Link :
+- Link : https://www.codewars.com/kata/52bc74d4ac05d0945d00054e/javascript
 - Methods : Nested Loop & Array Includes
 - Complexity : 0(mn)
 - Addition : There's simplification using .indexOf and .lastIndexOf from array function. The complexity would be 0(n)
